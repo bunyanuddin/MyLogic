@@ -2,4 +2,4 @@
 -kotlin
 -java
 -php
--rust
+-javascript
